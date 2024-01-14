@@ -18,6 +18,3 @@
 * Routing with React Navigation (DrawerNavigator, StackNavigator).
 * Fetch simple GitHub REST API with apisauce.
 * Apply flow with Redux pattern.
-
-## Gifs
-![default](gif/iosRecord.gif) ![default](gif/androidRecord.gif)
